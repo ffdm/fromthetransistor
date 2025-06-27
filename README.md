@@ -4,7 +4,7 @@ My implementation of the George Hotz course. His timelines are unrealistic and h
 
 #### Section 1: Intro: Cheating our way past the transistor
 - In the future, if TinyTapeout gets their s*** together, the chip could be fabbed and used for subsequent sections instead of an FPGA.
-- Current needs: Behavioral simulation environment, synthesis tool, pre-built FPGA board for initial testing
+- Current needs: behavioral simulation environment, synthesis tool, pre-built FPGA board for initial testing
   
 #### Section 2: Bringup: What language is hardware coded in?
 - Blinking an LED(Verilog, 10) -- Your first little program! Getting the simulator working. Learning Verilog.
