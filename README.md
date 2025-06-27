@@ -1,6 +1,6 @@
 ## From the Transistor to the Web Browser
 
-My implementation of the George Hotz course. His timelines are unrealistic and have been removed. This project is just for fun, so will probably take me a few years. I will try to only use free and open-source tools for design and development (though of course the physical hardware will not be free).
+My implementation of the George Hotz course. His timelines are unrealistic and have been removed. This project is just for fun, so will probably take me a few years. I will try to only use free and open-source tools for design and development (though physical hardware will not be free).
 
 #### Section 1: Intro: Cheating our way past the transistor
 - In the future, if TinyTapeout gets their s*** together, the chip could be fabbed and used for subsequent sections instead of an FPGA.
