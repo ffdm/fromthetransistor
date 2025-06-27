@@ -5,7 +5,10 @@ My implementation of the George Hotz course. His timelines are unrealistic and h
 #### Section 1: Intro: Cheating our way past the transistor
 - This section could easily be modified to not cheat our way past the transistor and use open-source physical design tools like OpenLane.
 - In the future, if TinyTapeout gets their s*** together, the chip could be fabbed and used for subsequent sections instead of an FPGA.
-- Current needs: behavioral simulation environment, synthesis tool, pre-built FPGA board for initial testing
+
+Toolchain:
+- Verilator: verilog simulation (fast and can simulate large designs)
+- FPGA (undecided, will use synthesis tool that comes with board)
   
 #### Section 2: Bringup: What language is hardware coded in?
 - Blinking an LED(Verilog, 10) -- Your first little program! Getting the simulator working. Learning Verilog.
