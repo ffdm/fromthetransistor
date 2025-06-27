@@ -3,6 +3,7 @@
 My implementation of the George Hotz course. His timelines are unrealistic and have been removed. This project is just for fun, so will probably take me a few years. I will try to only use free and open-source tools for design and development (though physical hardware will not be free).
 
 #### Section 1: Intro: Cheating our way past the transistor
+- This section could easily be modified to not cheat our way past the transistor and use open-source physical design tools like OpenLane.
 - In the future, if TinyTapeout gets their s*** together, the chip could be fabbed and used for subsequent sections instead of an FPGA.
 - Current needs: behavioral simulation environment, synthesis tool, pre-built FPGA board for initial testing
   
