@@ -1,0 +1,7 @@
+# folders
+scratch/
+build/
+
+# vim swap
+.swo
+.swp
