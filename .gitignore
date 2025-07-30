@@ -3,5 +3,5 @@ scratch/
 build/
 
 # vim swap
-.swo
-.swp
+*.swo
+*.swp
