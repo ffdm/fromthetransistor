@@ -1,0 +1,11 @@
+IO_LOC "clk" 4;
+IO_LOC "rst" 88;
+# internal uart - rx: 70, tx: 69
+# using pins + external FTDI:
+IO_LOC "uart_rx" 15; # also LED 0 
+IO_LOC "uart_tx" 16; # also LED 1
+
+IO_PORT "clk" IO_TYPE=LVCMOS33;
+IO_PORT "rst" IO_TYPE=LVCMOS33;
+IO_PORT "uart_rx" IO_TYPE=LVCMOS33;
+IO_PORT "uart_tx" IO_TYPE=LVCMOS33;
